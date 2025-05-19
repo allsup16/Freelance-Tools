@@ -1,0 +1,16 @@
+# Ignore virtual environment
+venv/
+
+# Ignore logs
+Logs/
+
+# Ignore editor files
+*.log
+*.swp
+
+# Ignore compiled Python
+__pycache__/
+*.pyc
+
+# Ignore output or temp folders
+Turnout/**/output/
