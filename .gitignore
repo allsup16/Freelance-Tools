@@ -1,0 +1,9 @@
+venv/
+Logs/
+Turnout/
+*.log
+*.swp
+__pycache__/
+*.pyc
+.env
+Turnout/**/output/
