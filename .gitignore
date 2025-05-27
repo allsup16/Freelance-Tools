@@ -1,6 +1,7 @@
 venv/
 Logs/
 Turnout/
+Test/
 *.log
 *.swp
 __pycache__/
