@@ -14,3 +14,12 @@ Feel free to explore and reuse any of the tools here!
 
 Libraries
     -sqllite3
+    -sys
+    -os
+    -requests
+    -bs4
+    -html5lib
+    -time
+    -selenium
+    -regex
+    -csv
