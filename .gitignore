@@ -1,6 +1,7 @@
 venv/
 Logs/
 Turnout/
+deliverables/
 Test/
 *.log
 *.swp
